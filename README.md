@@ -32,7 +32,7 @@ touch .env
 vi .env
 #press insert
 #copy your api key and paste it there
-#press and then :wq and hit enter
+#press escape and then :wq and hit enter
 
 go with security and add the inbound rule
 add the port 8501
